@@ -1,0 +1,18 @@
+/* Style Sheet*/
+
+.col-md-3{
+  background-color: #302f2f;
+  height: 1000px;
+}
+.col-md-9{
+  background-color: #878585;
+  height: 1000px;
+}
+
+h3{
+  color:#9dcfdd !important;
+}
+
+a{
+color:#9dcfdd !important;
+}
