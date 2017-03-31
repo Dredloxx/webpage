@@ -10,9 +10,10 @@
 }
 
 h3{
-  color:#9dcfdd !important;
+  font-weight: bold !important;
+  color:lightblue !important;
 }
 
-a{
-color:#9dcfdd !important;
+.searchBar{
+
 }
