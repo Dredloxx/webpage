@@ -4,19 +4,20 @@
   background-color: #302f2f;
   height: 1000px;
 }
+
 .col-md-10{
   background-color: #c1c1c1;
   height: 1000px;
 }
 
 h3{
-  font-weight: bold !important;
   color:lightblue !important;
 }
 
 .searchBar{
   width: 1150px;
 }
+
 hr
 {
   color: #fcfdff !important;
